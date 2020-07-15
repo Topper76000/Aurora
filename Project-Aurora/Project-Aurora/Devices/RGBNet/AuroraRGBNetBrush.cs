@@ -414,10 +414,10 @@ namespace Aurora.Devices.RGBNet
 
 
                //Cooler
-             { LedId.Cooler1, MOUSEPADLIGHT6 },
-              { LedId.Cooler2, MOUSEPADLIGHT7 },
-              { LedId.Cooler3, MOUSEPADLIGHT8 },
-              { LedId.Cooler4, MOUSEPADLIGHT9 },
+             { LedId.Cooler1, DeviceKeys.MOUSEPADLIGHT6 },
+              { LedId.Cooler2, DeviceKeys.MOUSEPADLIGHT7 },
+              { LedId.Cooler3, DeviceKeys.MOUSEPADLIGHT8 },
+              { LedId.Cooler4, DeviceKeys.MOUSEPADLIGHT9 },
               { LedId.Cooler5, DeviceKeys.F1 },
               { LedId.Cooler6, DeviceKeys.F2},
               { LedId.Cooler7, DeviceKeys.F3 },
